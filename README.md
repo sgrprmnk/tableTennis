@@ -20,6 +20,6 @@
   <li>At the end of the Game user will get the Result on board</li>
   </ul>
  <h3> Tech Stack</h3>
- <p>Only JavaScript with some html css code</p>
+ <p>90% of the code using JavaScript and the rest with some html css code</p>
 
 This is a web based Table Tennis game, and it is designed without using JavaScript Libraries.
