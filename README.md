@@ -1,5 +1,6 @@
 # tableTennis
 <h2>Let's practice tableTennis</h2>
+<img src="https://github.com/sgrprmnk/tableTennis/blob/main/Screenshot%20(282).png">
 <div>
   <h3>How to play the game</h3>
   <p>
