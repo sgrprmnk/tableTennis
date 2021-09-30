@@ -19,6 +19,11 @@
   <li>In the top of the canvas user can see the score</li>
   <li>At the end of the Game user will get the Result on board</li>
   </ul>
+  <h3>Usage:</h3>
+  <ul>
+  <li>to practice table Tennis
+    <li>to release stress(if one play it for 15mins in a row)
+  </ul>
  <h3> Tech Stack:</h3>
  <p>90% of the code using JavaScript and the rest with some html css code</p>
 
