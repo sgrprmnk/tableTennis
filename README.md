@@ -2,7 +2,7 @@
 <h2>Let's practice tableTennis</h2>
 <img src="https://github.com/sgrprmnk/tableTennis/blob/main/Screenshot%20(282).png">
 <div>
-  <h3>How to play the game</h3>
+  <h3>How to play the game:</h3>
   <p>
     left site is for user and right site is for computer
     <ul>
@@ -19,8 +19,8 @@
   <li>In the top of the canvas user can see the score</li>
   <li>At the end of the Game user will get the Result on board</li>
   </ul>
- <h3> Tech Stack</h3>
+ <h3> Tech Stack:</h3>
  <p>90% of the code using JavaScript and the rest with some html css code</p>
 
-<h4>Note</h4>
+<h4>Note:</h4>
 <p>This is a web based Table Tennis game, and it is designed without using JavaScript Libraries.</p>
