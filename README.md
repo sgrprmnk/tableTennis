@@ -15,7 +15,9 @@
   <li> user can play alone</li>
   <li> computer will play as a player with user in the right side</li>
   <li> this game is very smooth to play</li>
+  <li>In the top of the canvas user can see the score</li>
+  <li>At the end of the Game user will get the Result on board</li>
   </ul>
  
 
-This is a web based Table Tennis game
+This is a web based Table Tennis game, and it is designed without using JavaScript Libraries.
