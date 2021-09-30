@@ -22,4 +22,5 @@
  <h3> Tech Stack</h3>
  <p>90% of the code using JavaScript and the rest with some html css code</p>
 
-This is a web based Table Tennis game, and it is designed without using JavaScript Libraries.
+<h4>Note</h4>
+<p>This is a web based Table Tennis game, and it is designed without using JavaScript Libraries.</p>
