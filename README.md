@@ -13,7 +13,7 @@
   <h3>Features:</h3>
   <ul>
   <li> This is Web-based Game</li>
-  <li> user can play alone</li>
+  <li> user can play alone with computer</li>
   <li> computer will play as a player with user in the right side</li>
   <li> this game is very smooth to play</li>
   <li>In the top of the canvas user can see the score</li>
