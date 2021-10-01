@@ -29,3 +29,8 @@
 
 <h4>Note:</h4>
 <p>This is a web based Table Tennis game, and it is designed without using JavaScript Libraries.</p>
+<h2>Easy to maintain/update</h2>
+        <p>The code is written using Semantic Element and it's a clean code, so we can easily manipulating features and
+            fix the bug (if any) in future</p>
+        <h2>New Update</h2>
+    <li>bug fixes</li>
